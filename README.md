@@ -1,4 +1,4 @@
-# Hi, I'm Beverly 👋
+# Hi, I'm Beverly ^_^
 
 I'm a Statistics and Data Science major at Loyola Marymount University with a minor in Computer Science, graduating in May 2027. I'm interested in work that brings together data, technology, and health.
 
