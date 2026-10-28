@@ -12,6 +12,7 @@ I'm a Statistics and Data Science major at Loyola Marymount University with a mi
 | --- | --- | --- |
 | [Transformer Sentiment Classifier](https://github.com/bevm378/transformer-twitter-classifier) | Encoder-only Transformer built from scratch to classify tweet sentiment (~85% accuracy) | Python, PyTorch |
 | [ResNet CIFAR-10 Classifier](https://github.com/bevm378/resnet-cifar10-classifier) | ResNet-style CNN for image classification (~90% accuracy) | Python, PyTorch |
+| [Greenlight](https://github.com/bevm378/greenlight) | iOS weather app that turns the daily forecast into a Go / Caution / Stop verdict | Swift, SwiftUI |
 
 More coursework projects are in [beverly-mutuku-projects](https://github.com/bevm378/beverly-mutuku-projects).
 
